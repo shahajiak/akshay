@@ -1,2 +1,2 @@
 # akshay
-For photo editor 
+For photo editor
